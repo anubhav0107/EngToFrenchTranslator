@@ -1,4 +1,3 @@
-```markdown
 # English to French Translation using PyTorch Transformer
 
 This project implements a neural machine translation system to translate text from English to French using the Transformer architecture. The model is trained on a dataset of 163,765 English-French sentence pairs and evaluated using both quantitative and qualitative methods.
@@ -38,4 +37,3 @@ While the Transformer model demonstrates fundamental translation capabilities, f
 3. Vaswani et al. Attention is all you need. NeurIPS 2017.
 4. Wu et al. Google's neural machine translation system. arXiv 2016.
 5. Papineni et al. BLEU: a method for automatic evaluation of machine translation. ACL 2002.
-```
